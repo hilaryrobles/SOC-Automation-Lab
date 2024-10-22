@@ -20,7 +20,7 @@ The purpose of this lab is to showcase my knowledge on how to set up, configure,
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 - Wazuh
-- SOAR to perform automation
+- Shuffle, a SOAR platform, to perform automation
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
