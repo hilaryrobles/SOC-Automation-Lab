@@ -31,6 +31,7 @@ Example below.
 
 *Ref 1: Network Diagram*# Lab
 
+- Create a diagram and map out how I wanted to build out my lab logically. This diagram helps understand how data will flow and what we need to install.  
 - Install Wazuh
 - Have at least one agent reporting in
 - Integrate a SOAR platform such as Shuffle and perform simple automation such as data enrichment
