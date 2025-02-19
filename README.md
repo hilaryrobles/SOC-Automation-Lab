@@ -26,6 +26,18 @@ The purpose of this lab is to showcase my knowledge on how to set up, configure,
 
 ***1. Draw a diagram of the environment using a tool such as draw.io***
 
+Configure Windows Client
+
+Install & Configure Wazuh
+
+SetUp TheHive
+
+Configure Wazuh Dashboard
+
+Integrate SOAR
+
+
+
 *Ref 1: Network Diagram*# Lab
 
 - Create a diagram and map out how I wanted to build out my lab logically. This diagram helps understand how data will flow and what we need to install.  
