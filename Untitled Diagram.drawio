@@ -1,9 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="v1lhMmhXJgqEqJpxl6g5">
-    <mxGraphModel dx="1094" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uDdsvfvilZhpTVK5jA3D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="uDdsvfvilZhpTVK5jA3D-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uDdsvfvilZhpTVK5jA3D-6" value="Router" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="400" y="410" width="50" height="50" as="geometry" />
         </mxCell>
@@ -15,9 +20,6 @@
         </mxCell>
         <mxCell id="uDdsvfvilZhpTVK5jA3D-15" value="5. Send Response Action" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="100" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uDdsvfvilZhpTVK5jA3D-16" value="1. Send Events" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uDdsvfvilZhpTVK5jA3D-18" value="Perform Responsive Action" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="415" width="150" height="40" as="geometry" />
@@ -36,6 +38,14 @@
         </mxCell>
         <mxCell id="uDdsvfvilZhpTVK5jA3D-25" value="5. Send Response Action" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uDdsvfvilZhpTVK5jA3D-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" edge="1" parent="1" source="uDdsvfvilZhpTVK5jA3D-27" target="uDdsvfvilZhpTVK5jA3D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDdsvfvilZhpTVK5jA3D-40" value="1. Send Events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uDdsvfvilZhpTVK5jA3D-39">
+          <mxGeometry x="0.1123" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uDdsvfvilZhpTVK5jA3D-27" value="Windows 10 Client&lt;div&gt;Wazuh Agent&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="372.12" y="590" width="105" height="70" as="geometry" />
