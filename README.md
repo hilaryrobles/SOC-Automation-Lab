@@ -23,11 +23,8 @@ The purpose of this lab is to showcase my knowledge on how to set up, configure,
 - Shuffle, a SOAR platform, to perform automation
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
+***1. Draw a diagram of the environment using a tool such as draw.io***
 
 *Ref 1: Network Diagram*# Lab
 
