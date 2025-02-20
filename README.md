@@ -1,4 +1,4 @@
-# Wazuh-to-SOAR-Implementation
+# SOC Automation Lab
 
 ## Objective
 
