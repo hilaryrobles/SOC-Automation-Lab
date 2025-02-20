@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="_WLh8HH5S0nF7sLpn7Qv">
-    <mxGraphModel dx="2096" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,21 +126,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-36" value="Windows 10&lt;div&gt;Send Events&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="700" width="90" height="40" as="geometry" />
+          <mxGeometry x="85" y="700" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JN0WyPA5iUuVmTrifHE6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0WyPA5iUuVmTrifHE6-37" target="JN0WyPA5iUuVmTrifHE6-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="790" />
-              <mxPoint x="240" y="790" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JN0WyPA5iUuVmTrifHE6-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0WyPA5iUuVmTrifHE6-37" target="JN0WyPA5iUuVmTrifHE6-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-37" value="Wazuh Manager&lt;div&gt;Trigger Alerts &amp;amp; Perform Responsive Actions&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="770" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JN0WyPA5iUuVmTrifHE6-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0WyPA5iUuVmTrifHE6-39" target="JN0WyPA5iUuVmTrifHE6-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="770" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0WyPA5iUuVmTrifHE6-39" target="JN0WyPA5iUuVmTrifHE6-41">
           <mxGeometry relative="1" as="geometry" />
@@ -148,17 +140,20 @@
         <mxCell id="JN0WyPA5iUuVmTrifHE6-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0WyPA5iUuVmTrifHE6-39" target="JN0WyPA5iUuVmTrifHE6-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JN0WyPA5iUuVmTrifHE6-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0WyPA5iUuVmTrifHE6-39" target="JN0WyPA5iUuVmTrifHE6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-39" value="Shuffle&lt;div&gt;Receive Wazuh Alerts &amp;amp; Send Responsive Actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="770" width="290" height="40" as="geometry" />
+          <mxGeometry x="298" y="773" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-40" value="OSINT&lt;br&gt;Enrich IOS&#39;s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="700" width="90" height="40" as="geometry" />
+          <mxGeometry x="398" y="700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-41" value="TheHive&lt;div&gt;Creates Alerts in Case Management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="860" width="220" height="40" as="geometry" />
+          <mxGeometry x="333" y="855" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JN0WyPA5iUuVmTrifHE6-42" value="Email&lt;div&gt;Send Email &amp;amp; Responsive Actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="770" width="200" height="40" as="geometry" />
+          <mxGeometry x="646" y="770" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
