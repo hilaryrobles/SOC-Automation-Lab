@@ -9,10 +9,10 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 
 ## Tools Used
 
-- Wazuh:
-- Shuffle:
-- TheHive:
-- VirusTotal:
+- Wazuh: An open-source cyber security platform that integrates SIEM and XDR capablities in a unique solution.
+- Shuffle: An open-source automation platform designed to streamline and automate workflows within SOCs.
+- TheHive: An open-source incident response and case management platform.
+- VirusTotal: An online service that provides tools for analyzing files, URLs, domains, and IP addresses for potential security threats.
 
 
 ## Step-by-Step Guide:
