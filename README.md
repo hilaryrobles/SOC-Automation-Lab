@@ -6,7 +6,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 The purpose of this lab is to showcase my knowledge on how to set up, configure, and ingest logs to Wazuh; then utilize SOAR to perform automation. 
 
-### Skills Learned
+![Wazuh](https://github.com/user-attachments/assets/50e06c6b-8ca4-4d46-b630-faf67cfe7df7)
+
+
+## Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -14,7 +17,7 @@ The purpose of this lab is to showcase my knowledge on how to set up, configure,
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
-### Tools Used
+## Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
@@ -23,9 +26,8 @@ The purpose of this lab is to showcase my knowledge on how to set up, configure,
 - TheHive
 - VirusTotal
 
-## Steps
 
-***1. Draw a diagram of the environment using a tool such as draw.io***
+## Steps
 
 Configure Windows Client
 
@@ -36,7 +38,6 @@ SetUp TheHive
 Configure Wazuh Dashboard
 
 Integrate SOAR
-
 
 
 
