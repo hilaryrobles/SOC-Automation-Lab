@@ -18,9 +18,10 @@ The purpose of this lab is to showcase my knowledge on how to set up, configure,
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 - Wazuh
-- Shuffle, a SOAR platform, to perform automation
+- Shuffle,
+- TheHive
+- VirusTotal
 
 ## Steps
 
@@ -38,9 +39,9 @@ Integrate SOAR
 
 
 
-*Ref 1: Network Diagram*# Lab
 
-- Create a diagram and map out how I wanted to build out my lab logically. This diagram helps understand how data will flow and what we need to install.  
-- Install Wazuh
-- Have at least one agent reporting in
-- Integrate a SOAR platform such as Shuffle and perform simple automation such as data enrichment
+***Summary***
+
+This lab was inspired by the Youtube Channel <a href="https://www.youtube.com/@mydfir">MyDFIR</a>
+
+References & Resources:
