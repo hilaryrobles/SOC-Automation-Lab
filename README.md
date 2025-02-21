@@ -42,6 +42,8 @@ Integrate SOAR
 
 ***Summary***
 
-This lab was inspired by the Youtube Channel <a href="https://www.youtube.com/@mydfir">MyDFIR</a>
+This lab was inspired by the Youtube Channel <a href="https://www.youtube.com/MyDFIR">MyDFIR</a>. 
 
-References & Resources:
+### References & Resources:
+
+- <a href="https://www.youtube.com/@mydfir">MyDFIR</a>
