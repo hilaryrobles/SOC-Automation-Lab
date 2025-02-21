@@ -20,11 +20,12 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 ## Windows Client Set Up
 
 1. Install <a href="https://www.microsoft.com/en-ca/software-download/windows10ISO">Windows 10</a> on VirtualBox
-2. Install <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a>
-- Save <a href="https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Sysmon's Configuration File</a>
+- If you haven't already, download <a href="https://www.virtualbox.org/">VirtualBox</a> or your preferred Virtual Machine
+2. Install <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a> as well as their <a href="https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Sysmon's Configuration File</a>
 
 ![sysmon git](https://github.com/user-attachments/assets/b9d900d1-ad9a-4a4e-8e64-83191e12ee15)
 
+- Extract Sysmon zip file
 - Open PowerShell as administrator
    - Change directory into the file path 
       - Run: cd (Paste the file path of the extracted directory here)
