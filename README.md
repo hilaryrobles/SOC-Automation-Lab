@@ -33,7 +33,7 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 1.5 Navigate to the directory containing Sysmon
   - Run: ```cd ```(Paste the file path of the extracted directory here)
 
-1.6 Run the command to install Sysmon with the configuration
+1.5 Run the command to install Sysmon with the configuration
 ```
     .\Sysmon64.exe -i ..\sysmonconfig.xml
 ```
