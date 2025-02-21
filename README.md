@@ -21,17 +21,23 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 
 1.1 Install <a href="https://www.microsoft.com/en-ca/software-download/windows10ISO">Windows 10</a> on VirtualBox
 - If you haven't already, download <a href="https://www.virtualbox.org/">VirtualBox</a> or your preferred Virtual Machine
+  
 1.2 Install <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a> as well as <a href="https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Sysmon's Configuration File</a>
 
 ![sysmon git](https://github.com/user-attachments/assets/b9d900d1-ad9a-4a4e-8e64-83191e12ee15)
 
 1.3 Extract Sysmon zip file
 - Copy the file path
+  
 1.4 Open PowerShell as administrator
-- Change directory into the file path 
+- Navigate to the directory containing Sysmon
   - Run: cd (Paste the file path of the extracted directory here)
-  - ex. cd C:\Users\hacki\Downloads\Sysmon 
-- Run: .\Sysmon64.exe -i ..\sysmonconfig.xml
+  - ex. cd
+  - C:\Users\hacki\Downloads\Sysmon 
+1.5 Run the command to install Sysmon with the configuration
+'''
+    .\Sysmon64.exe -i ..\sysmonconfig.xml
+'''
   - -i flag indicates that we want to specify a configuration file
   - ../ allows us to go back one directory
      - sysmon config file is locaed under downloads directory so ../ will allow us to do that
