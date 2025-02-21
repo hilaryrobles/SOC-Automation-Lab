@@ -35,9 +35,9 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
   - ex. cd
   - C:\Users\hacki\Downloads\Sysmon 
 1.5 Run the command to install Sysmon with the configuration
-'''
+```
     .\Sysmon64.exe -i ..\sysmonconfig.xml
-'''
+```
   - -i flag indicates that we want to specify a configuration file
   - ../ allows us to go back one directory
      - sysmon config file is locaed under downloads directory so ../ will allow us to do that
