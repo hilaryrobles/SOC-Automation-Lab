@@ -9,12 +9,10 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 
 ## Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Wazuh
-- Shuffle,
-- TheHive
-- VirusTotal
+- Wazuh:
+- Shuffle:
+- TheHive:
+- VirusTotal:
 
 
 ## Step-by-Step Guide:
