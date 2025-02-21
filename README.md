@@ -17,16 +17,16 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 
 ## Step-by-Step Guide:
 
-## Windows Client Set Up
+## 1. Windows Client Set Up
 
-1. Install <a href="https://www.microsoft.com/en-ca/software-download/windows10ISO">Windows 10</a> on VirtualBox
+1.1 Install <a href="https://www.microsoft.com/en-ca/software-download/windows10ISO">Windows 10</a> on VirtualBox
 - If you haven't already, download <a href="https://www.virtualbox.org/">VirtualBox</a> or your preferred Virtual Machine
-2. Install <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a> as well as <a href="https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Sysmon's Configuration File</a>
+1.2 Install <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a> as well as <a href="https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml">Sysmon's Configuration File</a>
 
 ![sysmon git](https://github.com/user-attachments/assets/b9d900d1-ad9a-4a4e-8e64-83191e12ee15)
 
-- Extract Sysmon zip file
-- Open PowerShell as administrator
+1.3 Extract Sysmon zip file
+1.4 Open PowerShell as administrator
    - Change directory into the file path 
       - Run: cd (Paste the file path of the extracted directory here)
       - ex. cd C:\Users\hacki\Downloads\Sysmon 
@@ -40,14 +40,17 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
    - Close PowerShell
 
 
-## Install & Configure Wazuh
+## 2. Install & Configure Wazuh
+2.1
 
-## SetUp TheHive
+## 3. SetUp TheHive
+3.1
 
-## Configure Wazuh Dashboard
+## 4. Configure Wazuh Dashboard
+4.1
 
-## Integrate SOAR
-
+## 5. Integrate SOAR
+5.1
 
 ## References & Resources:
 
