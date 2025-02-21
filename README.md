@@ -17,7 +17,16 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 
 ## Step-by-Step Guide:
 
-Configure Windows Client
+## Environment Set Up
+
+1. Install Oracle VM VirtualBox Manager
+- Download <a href="https://www.virtualbox.org/">VirtualBox</a>
+
+2. Install <a href="https://www.microsoft.com/en-ca/software-download/windows10ISO">Windows 10</a> on VirtualBox
+3. Install <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a>
+- 
+
+
 
 Install & Configure Wazuh
 
@@ -31,3 +40,4 @@ Integrate SOAR
 ## References & Resources:
 
 - <a href="https://www.youtube.com/@mydfir">MyDFIR</a>
+- <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon Documentation</a>
