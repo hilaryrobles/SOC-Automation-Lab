@@ -30,22 +30,15 @@ The SOC Automation lab aims to automate a Security Operations Center (SOC) that 
 - Copy the file path
   
 1.4 Open PowerShell as administrator
-- Navigate to the directory containing Sysmon
+1.5 Navigate to the directory containing Sysmon
   - Run: cd (Paste the file path of the extracted directory here)
   - ex. cd
-  - C:\Users\hacki\Downloads\Sysmon 
-1.5 Run the command to install Sysmon with the configuration
+  - C:\Users\hacki\Downloads\Sysmon
+    
+1.6 Run the command to install Sysmon with the configuration
 ```
     .\Sysmon64.exe -i ..\sysmonconfig.xml
 ```
-  - -i flag indicates that we want to specify a configuration file
-  - ../ allows us to go back one directory
-     - sysmon config file is locaed under downloads directory so ../ will allow us to do that
-- Hit "Enter"
-- Select "Agree" to install Sysmon
-- Screen will display "Sysmon64 started"
-- Close PowerShell
-
 
 ## 2. Install & Configure Wazuh
 2.1
